@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Soul BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				180,
+				-60
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Soul BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-123
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Soul BF Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				-52
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Soul BF Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				111,
+				-52
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Soul BF Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				-43
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Soul BF Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				140,
+				-43
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Soul BF Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Soul BF Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				84,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Soul BF Sing Note UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Demon_Soul_BF_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "glow",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		80,
+		100
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
