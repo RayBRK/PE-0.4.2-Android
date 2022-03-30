@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AnimGuitarSoulBF.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GuitarSoulBF0000" x="10" y="10" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0001" x="10" y="10" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0002" x="10" y="10" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0003" x="743" y="10" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0004" x="743" y="10" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0005" x="743" y="10" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0006" x="10" y="459" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0007" x="10" y="459" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0008" x="743" y="459" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0009" x="10" y="908" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0010" x="10" y="908" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0011" x="743" y="908" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0012" x="10" y="1357" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0013" x="10" y="1357" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0014" x="743" y="1357" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0015" x="743" y="1357" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0016" x="10" y="1806" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0017" x="10" y="1806" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0018" x="10" y="1806" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0019" x="743" y="1806" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0020" x="10" y="2255" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0021" x="10" y="2255" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0022" x="743" y="2255" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0023" x="743" y="2255" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0024" x="743" y="2255" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0025" x="10" y="2704" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0026" x="10" y="2704" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0027" x="743" y="2704" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0028" x="743" y="2704" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0029" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0030" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0031" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0032" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0033" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0034" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0035" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0036" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0037" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0038" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0039" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0040" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0041" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0042" x="10" y="3153" width="723" height="439"/>
+	<SubTexture name="GuitarSoulBF0043" x="10" y="3153" width="723" height="439"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF-GUITAR-NEW.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+<SubTexture name="BF NOTE DOWN0000" x="1" y="0" width="536" height="377"/>
+<SubTexture name="BF NOTE DOWN0001" x="555" y="1" width="536" height="382"/>
+<SubTexture name="BF NOTE LEFT0000" x="2163" y="3" width="457" height="467"/>
+<SubTexture name="BF NOTE LEFT0001" x="2634" y="3" width="408" height="493"/>
+<SubTexture name="BF NOTE LEFT0002" x="3057" y="3" width="408" height="493"/>
+<SubTexture name="BF NOTE RIGHT0000" x="1" y="0" width="536" height="377"/>
+<SubTexture name="BF NOTE RIGHT0001" x="555" y="1" width="536" height="382"/>
+<SubTexture name="BF NOTE UP0000" x="3480" y="3" width="457" height="467"/>
+<SubTexture name="BF NOTE UP0001" x="2713" y="571" width="408" height="494"/>
+<SubTexture name="BF idle dance0000" x="1109" y="2" width="510" height="409"/>
+<SubTexture name="BF idle dance0001" x="1636" y="2" width="513" height="409"/>
+<SubTexture name="BF idle dance0002" x="2" y="582" width="513" height="412"/>
+<SubTexture name="BF idle dance0003" x="531" y="582" width="517" height="410"/>
+<SubTexture name="BF idle dance0004" x="1065" y="582" width="518" height="406"/>
+<SubTexture name="BF idle dance0005" x="1601" y="582" width="516" height="411"/>
+<SubTexture name="BF idle dance0006" x="2134" y="582" width="511" height="412"/>
+</TextureAtlas>
