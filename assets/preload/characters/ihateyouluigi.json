@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				-70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "luigi idle"
+		},
+		{
+			"offsets": [
+				-32,
+				-94
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "luigi left"
+		},
+		{
+			"offsets": [
+				20,
+				-159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "luigi down"
+		},
+		{
+			"offsets": [
+				-91,
+				-66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "luigi up"
+		},
+		{
+			"offsets": [
+				-99,
+				-87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "luigi right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-60,
+				-126
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "luigi miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-126
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "luigi miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-126
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "luigi miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-126
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "luigi miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/burnt luigi",
+	"position": [
+		70,
+		20
+	],
+	"healthicon": "ihateuluigi",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		140,
+		120
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
