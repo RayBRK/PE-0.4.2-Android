@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				49,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bob_idle"
+		},
+		{
+			"offsets": [
+				48,
+				-222
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bob_right"
+		},
+		{
+			"offsets": [
+				45,
+				-223
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bob_up"
+		},
+		{
+			"offsets": [
+				53,
+				-221
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bob_left"
+		},
+		{
+			"offsets": [
+				50,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bob_down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/STUPID_GLOOP_MAN",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cooldream",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		148,
+		255
+	],
+	"camera_position": [
+		50,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

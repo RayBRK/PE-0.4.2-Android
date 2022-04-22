@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "jeb idle"
+		},
+		{
+			"offsets": [
+				235,
+				-33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "jeb right"
+		},
+		{
+			"offsets": [
+				140,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "jeb down"
+		},
+		{
+			"offsets": [
+				50,
+				-81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "jeb left"
+		},
+		{
+			"offsets": [
+				64,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "jeb up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jeb",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jeb",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		60,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

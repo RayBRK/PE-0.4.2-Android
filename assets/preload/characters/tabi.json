@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				94
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tad Sing Note UP"
+		},
+		{
+			"offsets": [
+				-7,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				-74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tad Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				53,
+				45
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "tad idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TABI",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tabi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		187,
+		129
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

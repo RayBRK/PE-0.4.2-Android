@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Miku idle dance"
+		},
+		{
+			"offsets": [
+				9,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Miku Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-74,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Miku Sing Note UP"
+		},
+		{
+			"offsets": [
+				-67,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Miku Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-35,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Miku Scream Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-68,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Miku Scream Sing Note UP"
+		},
+		{
+			"offsets": [
+				10,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Miku Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-83,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Miku Scream Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-66,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Miku Scream Sing Note DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ev_miku_mad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mikumad",
+	"flip_x": false,
+	"healthbar_colors": [
+		62,
+		255,
+		254
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
