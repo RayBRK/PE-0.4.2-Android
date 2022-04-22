@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="camellia.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Camellia_Down0000" x="99" y="17" width="481" height="500"/>
+	<SubTexture name="Camellia_Down0001" x="578" y="20" width="481" height="498"/>
+	<SubTexture name="Camellia_Idle0000" x="1073" y="74" width="484" height="439"/>
+	<SubTexture name="Camellia_Idle0001" x="1556" y="67" width="479" height="444"/>
+	<SubTexture name="Camellia_Idle0002" x="2049" y="73" width="486" height="457"/>
+	<SubTexture name="Camellia_Idle0003" x="2536" y="76" width="483" height="457"/>
+	<SubTexture name="Camellia_Left0000" x="36" y="535" width="540" height="462"/>
+	<SubTexture name="Camellia_Left0001" x="576" y="533" width="540" height="464"/>
+	<SubTexture name="Camellia_Right0000" x="1157" y="547" width="498" height="479"/>
+	<SubTexture name="Camellia_Right0001" x="16055" y="545" width="494" height="473"/>
+	<SubTexture name="Camellia_Up0000" x="105" y="1004" width="491" height="500"/>
+	<SubTexture name="Camellia_Up0001" x="588" y="1011" width="482" height="497"/>
+</TextureAtlas>

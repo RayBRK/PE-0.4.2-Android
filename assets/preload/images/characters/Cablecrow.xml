@@ -1,0 +1,9 @@
+<TextureAtlas imagePath="Cablecrow.png">
+<!--  Created with Adobe Animate version 21.0.3.38773  -->
+<!--  http://www.adobe.com/products/animate.html  -->
+<SubTexture name="Idle0000" x="906" y="5" width="892" height="1069"/>
+<SubTexture name="Sing Down0000" x="5" y="5" width="891" height="1069"/>
+<SubTexture name="Sing Left0000" x="5" y="1084" width="891" height="1069"/>
+<SubTexture name="Sing Right0000" x="906" y="1084" width="1068" height="1069"/>
+<SubTexture name="Sing Up0000" x="1808" y="5" width="891" height="1069"/>
+</TextureAtlas>

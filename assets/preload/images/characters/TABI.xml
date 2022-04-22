@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TABI.png">
+<SubTexture name="Tabi Down0000" x="70" y="520" width="331" height="347" frameX="0" frameY="0" frameWidth="918" frameHeight="860" />
+<SubTexture name="Tabi Down0001" x="528" y="520" width="331" height="347" frameX="0" frameY="0" frameWidth="918" frameHeight="860" />
+<SubTexture name="Tabi Idle0000" x="86" y="906" width="252" height="389" frameX="0" frameY="0" frameWidth="919" frameHeight="856" />
+<SubTexture name="Tabi Idle0001" x="543" y="906" width="252" height="389" frameX="0" frameY="0" frameWidth="919" frameHeight="856" />
+<SubTexture name="Tabi Idle0002" x="1003" y="906" width="252" height="389" frameX="0" frameY="0" frameWidth="919" frameHeight="856" />
+<SubTexture name="Tabi Idle0003" x="1490" y="40" width="252" height="389" frameX="0" frameY="0" frameWidth="919" frameHeight="856" />
+<SubTexture name="Tabi Idle0004" x="1490" y="468" width="252" height="389" frameX="0" frameY="0" frameWidth="919" frameHeight="856" />
+<SubTexture name="Tabi Idle0005" x="1492" y="896" width="252" height="389" frameX="0" frameY="0" frameWidth="919" frameHeight="856" />
+<SubTexture name="Tabi Idle0006" x="86" y="1332" width="252" height="390" frameX="0" frameY="0" frameWidth="919" frameHeight="856" />
+<SubTexture name="Tabi Idle0007" x="546" y="1332" width="252" height="390" frameX="0" frameY="0" frameWidth="919" frameHeight="856" />
+<SubTexture name="Tabi Idle0008" x="1005" y="1332" width="252" height="390" frameX="0" frameY="0" frameWidth="919" frameHeight="856" />
+<SubTexture name="Tabi Left0000" x="950" y="12" width="408" height="418" frameX="0" frameY="0" frameWidth="917" frameHeight="859" />
+<SubTexture name="Tabi Left0001" x="958" y="442" width="408" height="418" frameX="0" frameY="0" frameWidth="917" frameHeight="859" />
+<SubTexture name="Tabi Right0000" x="1465" y="1294" width="371" height="428" frameX="0" frameY="0" frameWidth="917" frameHeight="855" />
+<SubTexture name="Tabi Right0001" x="1952" y="0" width="371" height="428" frameX="0" frameY="0" frameWidth="917" frameHeight="855" />
+<SubTexture name="Tabi Up0000" x="76" y="0" width="285" height="431" frameX="0" frameY="0" frameWidth="947" frameHeight="873" />
+<SubTexture name="Tabi Up0001" x="549" y="0" width="285" height="431" frameX="0" frameY="0" frameWidth="947" frameHeight="873" />
+</TextureAtlas>

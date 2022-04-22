@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cancer.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cancer_down0000" x="5" y="5" width="293" height="401"/>
+	<SubTexture name="cancer_idle0000" x="408" y="5" width="294" height="408"/>
+	<SubTexture name="cancer_left0000" x="5" y="423" width="344" height="380"/>
+	<SubTexture name="cancer_right0000" x="712" y="5" width="353" height="330"/>
+	<SubTexture name="cancer_up0000" x="1576" y="1606" width="788" height="796"/>
+</TextureAtlas>
