@@ -1,0 +1,30 @@
+{
+	"storyName": "[krimcover#13] ghost - martykrimson74",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"ghost",
+			"camellia",
+			[
+				213,
+				95,
+				86
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"pico"
+	],
+	"weekName": "Custom Week"
+}
